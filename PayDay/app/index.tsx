@@ -1,7 +1,4 @@
-import { Text, View, Button, StyleSheet} from "react-native";
-import { Link } from "expo-router"
-import { Stack } from "expo-router";
-import { Home } from "expo-router"
+import { Text, View, Button, StyleSheet, Tela2} from "react-native";
 export default function Index() {
   return (
     <View
@@ -57,7 +54,3 @@ export default function Index() {
     </View>
   );
 }
-
-
-
-
